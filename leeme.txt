@@ -1,1 +1,5 @@
-Este es mi archivo de informacion
+Este es mi archivo de informacion.
+
+
+
+Este es el link del instalador de git https://git-scm.com/
